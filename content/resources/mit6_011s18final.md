@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-011-signals-systems-and-inference-spring-2018/e3112fd332b9fba612657572480574f4_MIT6_011S18final.pdf
+file: /media/courses/6-011-signals-systems-and-inference-spring-2018/e3112fd332b9fba612657572480574f4_MIT6_011S18final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 6.011 Signals, Systems and Inference, Final Exam
 uid: e3112fd3-32b9-fba6-1265-7572480574f4

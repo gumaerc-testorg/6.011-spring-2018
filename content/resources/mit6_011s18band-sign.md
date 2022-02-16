@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-011-signals-systems-and-inference-spring-2018/604ae31ec42d8163bc62283748f330a4_MIT6_011S18band-sign.pdf
+file: /media/courses/6-011-signals-systems-and-inference-spring-2018/604ae31ec42d8163bc62283748f330a4_MIT6_011S18band-sign.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 6.011 Signals, Systems and Inference, Bandlimited Signals Notes
 uid: 604ae31e-c42d-8163-bc62-283748f330a4

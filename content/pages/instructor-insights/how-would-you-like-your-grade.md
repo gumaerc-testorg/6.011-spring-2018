@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
 title: How Would You Like Your Grade?
 uid: 9488a177-4d0d-7ddc-acd8-2ad6acfad177

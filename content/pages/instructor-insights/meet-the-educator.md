@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
 title: Meet the Educator
 uid: d133dba8-925a-e383-eac4-0b73cca3db1d

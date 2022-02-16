@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
 title: 'Supporting Students with Supplementary Opportunities '
 uid: 6f6441e0-b6d2-cd17-5727-c36edc0e37e4

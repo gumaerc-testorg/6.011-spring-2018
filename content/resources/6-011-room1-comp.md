@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-011-signals-systems-and-inference-spring-2018/1eb87f16f5d8df860ddac6f4aab3ad32_6-011-room1-comp.jpg
+file: /media/courses/6-011-signals-systems-and-inference-spring-2018/1eb87f16f5d8df860ddac6f4aab3ad32_6-011-room1-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 6-011-room1-comp.jpg
 uid: 1eb87f16-f5d8-df86-0dda-c6f4aab3ad32

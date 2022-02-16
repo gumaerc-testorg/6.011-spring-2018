@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
 ---
@@ -27,7 +29,7 @@ Curriculum Information
 
 ### Prerequisites
 
-The essential prerequisites for this course are [_6.003 Signals and Systems_](http://ocw2.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011) and [_6.041A Intro to Probability I_](http://ocw2.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) (or equivalents), and the [_18.03 Differential Equations_](http://ocw2.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011) material related to solving linear, time-invariant systems of first-order differential equations using eigenvalues and eigenvectors.
+The essential prerequisites for this course are [_6.003 Signals and Systems_](/courses/6-003-signals-and-systems-fall-2011) and [_6.041A Intro to Probability I_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) (or equivalents), and the [_18.03 Differential Equations_](/courses/18-03sc-differential-equations-fall-2011) material related to solving linear, time-invariant systems of first-order differential equations using eigenvalues and eigenvectors.
 
 ### Requirements Satisfied
 
@@ -36,36 +38,6 @@ The essential prerequisites for this course are [_6.003 Signals and Systems_](h
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Lecture hall with red tiered tablet chairs.]({{< resource_file 1eb87f16-f5d8-df86-0dda-c6f4aab3ad32 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 1 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a tiered classroom equipped with an A/V system.
-    
-*   ![View from right side of classroom. A long table and three rows of chairs. A blackboard in front.]({{< resource_file 3ea2a72e-28d9-9d7c-0c08-f0ff32070245 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Recitation
-    
-    Recitation sessions were held in a classroom with a chalkboard, a moveable table, and three rows of chairs.
-    
-*   ![View from left side of classroom. A long table and two rows of chairs. A huge blackboard in front.]({{< resource_file e63a6887-2a22-cf95-fa50-8593a320e7e5 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 3 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Common Room
-    
-    Common Room sessions were held in a classroom with a chalkboard, a moveable table, and chairs.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
