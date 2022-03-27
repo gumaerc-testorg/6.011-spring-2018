@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: How Would You Like Your Grade?
 parent_type: CourseSection
+parent_uid: 9488a177-4d0d-7ddc-acd8-2ad6acfad177
 resourcetype: Image
 title: BH_test-comp.png
 uid: 71cfe61c-5a2c-f696-bc36-167b99956bdb

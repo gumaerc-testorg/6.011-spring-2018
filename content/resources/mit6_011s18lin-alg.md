@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 817d3d33-4c15-d8d5-9fd2-b7d57652d11a
 resourcetype: Document
 title: 6.011 Signals, Systems and Inference, Linear Algebra Notes
 uid: f30ecb1d-1fb9-0db3-56a0-95e00764b319

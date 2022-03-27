@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the Educator
 parent_type: CourseSection
+parent_uid: d133dba8-925a-e383-eac4-0b73cca3db1d
 resourcetype: Image
 title: EKG_comp.jpg
 uid: efd1f7ba-9654-85ed-0630-7f56cbb1d485

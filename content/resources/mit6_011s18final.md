@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 15c61837-e034-7eb8-2d8d-12d51bde4c9e
 resourcetype: Document
 title: 6.011 Signals, Systems and Inference, Final Exam
 uid: e3112fd3-32b9-fba6-1265-7572480574f4
