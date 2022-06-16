@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-011-signals-systems-and-inference-spring-2018/3ea2a72e28d99d7c0c08f0ff32070245_recitation-comp.jpg
+file: /courses/6-011-signals-systems-and-inference-spring-2018/3ea2a72e28d99d7c0c08f0ff32070245_recitation-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

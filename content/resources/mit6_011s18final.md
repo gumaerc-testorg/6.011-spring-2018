@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-011-signals-systems-and-inference-spring-2018/e3112fd332b9fba612657572480574f4_MIT6_011S18final.pdf
+file: /courses/6-011-signals-systems-and-inference-spring-2018/e3112fd332b9fba612657572480574f4_MIT6_011S18final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
