@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Professor Verghese describes the unique role 6.011 Signals,
+  Systems and Inference plays in the MIT Electrical Engineering and Computer Science
+  (EECS) curriculum.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,14 +13,13 @@ parent_uid: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
 title: What Makes this Subject Distinctive?
 uid: 4ad8a5cb-6660-25e2-162f-e078cff61395
 ---
-
 _In this section, Professor Verghese describes the unique role_ 6.011 Signals, Systems and Inference _plays in the MIT Electrical Engineering and Computer Science (EECS) curriculum._
 
 {{< quote "6.011 Signals, Systems and Inference originated in the desire to have a single subject (…) that would allow students to study ideas, methods and tools that are common in and at the intersection of control, signal processing, and communication, including the study of stochastic signals." "— George Verghese" >}}
 
 It is typically the case in engineering curricula (and especially electrical engineering) that students who have taken a foundational course in signals and systems, perhaps in their sophomore or junior year, will then go on to specialized senior subjects in feedback control and/or in signal processing. If they have also taken a class in probability by this time, then they are ready to tackle a senior subject in modern communication theory. However, the usual undergraduate curriculum will typically not have room for them to take courses in all three (control, signal processing, and communication), or perhaps even two.
 
-![Book cover depicting various mathematical symbols.]({{< resource_file ba441293-cd33-e1a6-8ae7-43a55e8c2dee >}})
+{{< resource ba441293-cd33-e1a6-8ae7-43a55e8c2dee >}}
 
 Cover of Oppenheim and Verghese’s (2015) book, _Signals, Systems & Inference_.
 
