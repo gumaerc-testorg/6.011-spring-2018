@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page has the syllabus for the course including the description and
+  grading scheme.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7c50fabd-d82a-456d-d14d-291cdd570d29
 ---

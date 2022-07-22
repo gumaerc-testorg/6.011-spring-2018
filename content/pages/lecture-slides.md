@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains the topic and slides for all lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: 737e0ab1-eeb2-b8cc-e206-27e32dde18bf
 ---
@@ -28,7 +32,7 @@ Lecture Slides
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_011s18lec1)
+{{% resource_link b00929a7-6594-6777-aef3-a9bf7f160d0f "Lecture 1 Slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Introduction
 Transforms
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec2)
+{{% resource_link ee9040c9-1bdd-01a1-1a59-833ef57aadc7 "Lecture 2 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +56,7 @@ Transforms
 Energy Spectral Density
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec3)
+{{% resource_link fd065fa5-967a-6fee-31af-9ffd31754da1 "Lecture 3 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Energy Spectral Density
 State-Space Models
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec4)
+{{% resource_link 347a8760-a776-f2c0-6ec5-99195600e486 "Lecture 4 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +88,7 @@ Linearization
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec5)
+{{% resource_link f3e2660d-22e2-d57e-bbf6-2fbe77cc156f "Lecture 5 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ LTI State-Space Models
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec6)
+{{% resource_link 32d0d6ce-abaa-7db3-78cc-e8f35cb9c3f6 "Lecture 6 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +128,7 @@ Observability
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec7)
+{{% resource_link 14c2cc64-f729-f4e6-4df7-cf3f2921fcd1 "Lecture 7 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Reaching Target States
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec8)
+{{% resource_link 8c8a946b-0ea2-b091-28d3-931aa8a317b8 "Lecture 8 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +164,7 @@ Reaching Target States
 Observers for State Estimation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec9)
+{{% resource_link 1fb5c152-b0e0-eb44-7425-b7f6e0c9f442 "Lecture 9 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +182,7 @@ State Feedback
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec10)
+{{% resource_link 37494006-5e13-39ea-37dd-2aa3cf8c54bd "Lecture 10 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +200,7 @@ Observer-Based Feedback
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec11)
+{{% resource_link aecb8bb1-edba-3f3d-958b-d9cbfe911889 "Lecture 11 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +218,7 @@ Random Variables
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec12)
+{{% resource_link 3e0a5c25-cd7b-5e1e-0b1a-328e13c82025 "Lecture 12 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +236,7 @@ MMSE and LMMSE Estimation
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec13)
+{{% resource_link bf865d44-53d7-4062-b775-581570a30f43 "Lecture 13 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +254,7 @@ Orthogonality
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec14)
+{{% resource_link e13347b4-a129-7aaa-cc96-33efe1d573c7 "Lecture 14 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +272,7 @@ Random Processes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec15)
+{{% resource_link 0df9fff5-e1e9-2239-e0f7-55a893117b91 "Lecture 15 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +290,7 @@ LTI Filtering of WSS Processes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec16)
+{{% resource_link b6554551-f64b-d5f7-5ff3-f4ff4f0a23f6 "Lecture 16 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +302,7 @@ LTI Filtering of WSS Processes
 LTI Filtering of WSS Processes
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec17)
+{{% resource_link aff4e791-5b3d-e35e-2481-d62b444d71ee "Lecture 17 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +314,7 @@ LTI Filtering of WSS Processes
 Power Spectral Density (PSD)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec18)
+{{% resource_link e6d7ee6c-7901-199d-dec4-2d9e75ffbe1b "Lecture 18 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -330,7 +334,7 @@ Modeling Filters
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec19)
+{{% resource_link 9657e903-5276-a86c-632f-fcf6f0ec0bc2 "Lecture 19 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +346,7 @@ Modeling Filters
 Wiener Filtering
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec20)
+{{% resource_link 78edf8ff-33f3-eb92-cb6d-1e2a83325af1 "Lecture 20 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,7 +358,7 @@ Wiener Filtering
 Wiener Filtering Illustrations
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec21)
+{{% resource_link a3fb8631-8f0d-86e4-eb8a-4607881c8578 "Lecture 21 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -366,7 +370,7 @@ Wiener Filtering Illustrations
 Hypothesis Testing
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec22)
+{{% resource_link e6055996-bacf-ce70-426c-fb7a080c03aa "Lecture 22 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -384,7 +388,7 @@ Signal Detection
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec23)
+{{% resource_link 0fd576ed-952d-28a0-e393-6b79e092ec2c "Lecture 23 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -396,7 +400,7 @@ Signal Detection
 Matched Filtering
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 24 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec24)
+{{% resource_link dfe2855f-36e4-4436-678b-fd3736c937fe "Lecture 24 Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

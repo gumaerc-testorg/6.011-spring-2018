@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains all of the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 817d3d33-4c15-d8d5-9fd2-b7d57652d11a
 ---
@@ -35,7 +39,7 @@ Refamiliarize yourself with Chapters 1, 2, 4–7, 9 of _Signals and Systems_
 
 *    Oppenheim, Alan, and Alan Willsky, with S. Hamid Nawab. _Signals and Systems_. 2nd ed. Prentice-Hall, 1996.  
 
-[What You Need to Know about Bandlimited Signals for 6.011 (PDF)]({{< baseurl >}}/resources/mit6_011s18band-sign)
+{{% resource_link 604ae31e-c42d-8163-bc62-283748f330a4 "What You Need to Know about Bandlimited Signals for 6.011 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -61,7 +65,7 @@ Modal Solutions of LTI Systems
 {{< tdopen >}}
 
 
-[Linear Algebra Notes (PDF)]({{< baseurl >}}/resources/mit6_011s18lin-alg)
+{{% resource_link f30ecb1d-1fb9-0db3-56a0-95e00764b319 "Linear Algebra Notes (PDF)" %}}
 
 \[SSI\] Sections 5.1–5.3
 

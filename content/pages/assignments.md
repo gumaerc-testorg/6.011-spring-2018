@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains the all the assignments and their topics.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d7c629c9-ad73-50eb-5c65-c8f5e4f76b3f
 ---
@@ -28,7 +32,7 @@ Assignment
 Signals & Systems in Time & Frequency
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps1)
+{{% resource_link 5ede01cb-e5c8-fa60-740a-60ef60c70b1a "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Signals & Systems in Time & Frequency
 State-Space Models
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps2)
+{{% resource_link d029f632-26c7-53cd-a8cc-80da896013ca "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +56,7 @@ State-Space Models
 Modal Solutions of LTI Systems
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps3)
+{{% resource_link bf151c81-159a-09d6-0f38-e6363d4a1b13 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Modal Solutions of LTI Systems
 Reachability and Observability, Transfer Functions, Hidden Modes, Observers
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps4)
+{{% resource_link d454aa1a-e573-3af4-b91b-2e15afec0c6d "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Reachability and Observability, Transfer Functions, Hidden Modes, Observers
 Probablistic Models, Random Variables
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps5)
+{{% resource_link 676b47a2-4b5a-3db4-2cda-6afa7cd378fc "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +92,7 @@ Probablistic Models, Random Variables
 MMSE and LMMSE Estimation
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps6)
+{{% resource_link a7cc8385-953a-72f1-cd94-1f7fc42903e3 "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +104,7 @@ MMSE and LMMSE Estimation
 WSS Processes
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps7)
+{{% resource_link 1d5577e3-da96-2909-efea-071969acac74 "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ WSS Processes
 LTI Filtering of WSS Processes, Power Spectral Density
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps8)
+{{% resource_link 8826ca64-3a8e-90f6-cff6-ce455203894b "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +128,7 @@ LTI Filtering of WSS Processes, Power Spectral Density
 Wiener Filtering
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps9)
+{{% resource_link 38a5a144-3815-c668-d38e-e84ba8fb77c1 "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +140,7 @@ Wiener Filtering
 Hypothesis Testing
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps10)
+{{% resource_link bd4758fd-4a44-0825-75b5-9ca3bf4029e8 "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Hypothesis Testing
 Signal Detection
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit6_011s18ps11)
+{{% resource_link e8148aad-a6cb-05f9-147c-310dc38e938f "Problem Set 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

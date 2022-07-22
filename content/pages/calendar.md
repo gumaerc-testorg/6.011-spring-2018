@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar contains the topics for sessions and recitations and key
+  dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: be0fc42f-f90b-6dff-3cef-820efb271565
 ---

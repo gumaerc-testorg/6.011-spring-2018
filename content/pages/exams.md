@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains the two quizzes and final exam.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 15c61837-e034-7eb8-2d8d-12d51bde4c9e
 ---
@@ -21,7 +25,7 @@ Grade Percentage
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit6_011s18quiz1)
+{{% resource_link 0be8ee6b-0d04-a3ca-9466-2e0059d1b0d1 "Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 20%
@@ -30,7 +34,7 @@ Grade Percentage
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_011s18quiz2)
+{{% resource_link cc8afbde-dd3a-b5d5-4e55-4ec7eba19e1d "Quiz 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 15%
@@ -39,7 +43,7 @@ Grade Percentage
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Final Exam (PDF)]({{< baseurl >}}/resources/mit6_011s18final)
+{{% resource_link e3112fd3-32b9-fba6-1265-7572480574f4 "Final Exam (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 25%
