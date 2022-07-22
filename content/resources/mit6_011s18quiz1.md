@@ -5,6 +5,7 @@ file: /courses/6-011-signals-systems-and-inference-spring-2018/0be8ee6b0d04a3ca9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
