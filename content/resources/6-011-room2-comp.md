@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-011-signals-systems-and-inference-spring-2018/8354d1bc9b665773246e77f41302eaeb_6-011-room2-comp.jpg
+file_size: 12964
 file_type: image/jpeg
 image_metadata:
   caption: ''
