@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-011-signals-systems-and-inference-spring-2018/efd1f7ba965485ed06307f56cbb1d485_EKG_comp.jpg
+file: /courses/6-011-signals-systems-and-inference-spring-2018/efd1f7ba965485ed06307f56cbb1d485_EKG_comp.jpg
 file_size: 99101
 file_type: image/jpeg
 image_metadata:

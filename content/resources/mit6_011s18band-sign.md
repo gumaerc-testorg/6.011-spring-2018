@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-011-signals-systems-and-inference-spring-2018/604ae31ec42d8163bc62283748f330a4_MIT6_011S18band-sign.pdf
+file: /courses/6-011-signals-systems-and-inference-spring-2018/604ae31ec42d8163bc62283748f330a4_MIT6_011S18band-sign.pdf
 file_size: 197672
 file_type: application/pdf
 learning_resource_types:
