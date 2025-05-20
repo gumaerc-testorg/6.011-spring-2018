@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-011-signals-systems-and-inference-spring-2018/e63a68872a22cf95fa508593a320e7e5_common_room-comp.jpg
+file: /courses/6-011-signals-systems-and-inference-spring-2018/e63a68872a22cf95fa508593a320e7e5_common_room-comp.jpg
 file_size: 10224
 file_type: image/jpeg
 image_metadata:
