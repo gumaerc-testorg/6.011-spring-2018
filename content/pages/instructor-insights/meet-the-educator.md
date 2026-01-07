@@ -20,4 +20,4 @@ For the past dozen years I have mostly worked in biomedical signal processing, f
 
 {{< resource efd1f7ba-9654-85ed-0630-7f56cbb1d485 >}}
 
-Electrocardiogram data, an example of measured signals. (Image courtesy of {{% resource_link "fddcb2dd-8868-404b-bb76-d865884b5604" "kenfagerdotcom" %}} on flickr. License: BY-NC-SA.)
+Electrocardiogram data, an example of measured signals. (Image courtesy of [kenfagerdotcom](https://www.flickr.com/photos/kenfagerdotcom/6281270967/in/photolist-az4a2i-9TM6Q4-r7kisY-4bZJfB-5hB5ri-edowBS-8xyJ-ejDt8G-KWCfA-9bEV6V-9AtSwq-3uK9m5-dhKdje-gyELR-YUJ68J-kp9W5T-8xuzw-dy5yt-8xuAA-6u3Yy-fRVTsb-48h976-8xuz9-8xuvx-5QWzHw-DjS1ww-gyEHk-5iZsat-bFRLPZ-fQ2gio-3R3aX-5M6c9v-6TBdLE-763nT-6MGofn-6MLyQC-8AH6jM-j6nZvb-Qq5qg-57YAgm-5QSiUv-8xuCB-KPjNoW-HFH4yo-5cCPJS-5cCPgE-yWLnwS-67v7Xy-iugCf-8SK2YS) on flickr. License: BY-NC-SA.)
