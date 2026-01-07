@@ -33,7 +33,7 @@ The essential prerequisites for this course are [*6.003 Signals and Systems*](/
 
 ### Requirements Satisfied
 
-6.011 can be applied toward a {{% resource_link "76074f89-fde1-4b7c-af16-17b44d4b3248" "Bachelor of Science in Electrical Engineering" %}} and a {{% resource_link "314cffb8-02cf-4ebe-8997-0bac35f11e18" "Bachelor of Science in Electrical Engineering and Computer Science" %}}.
+6.011 can be applied toward a [Bachelor of Science in Electrical Engineering](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-1-electrical-science-and-engineering/) and a [Bachelor of Science in Electrical Engineering and Computer Science](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-2-electrical-engineering-and-computer-science/).
 
 ### Offered
 
